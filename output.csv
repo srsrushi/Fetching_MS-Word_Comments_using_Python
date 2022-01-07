@@ -1,0 +1,10 @@
+﻿test.docx,
+"tableHeader : First Name, Last Name, Email, Contact, Address my comment",First Name Last Name Email Contact Address
+"Context : Hardik, Pandya, Hardik.pandya@gmail.com, 123456789, Karke Aya Street",Hardik Pandya Hardik.pandya@gmail.com 123456789 Karke Aya Street
+"Context : Dinesh, Karthik, NA, NA, AV Avenue.",Dinesh Karthik   AV Avenue
+"Context, MS, Dhon, Ms.dhoni@gmail.com,NA,NA",MS Dhoni Ms.dhoni@gmail.com
+"Cotext: Virendra, Sewagh, NA, 123456987",Virendra Sewagh  123456987
+"Context: Yuvraj, Singh",Yuvraj Singh 
+Context:testing,"Hi, this is a paragraph"
+"Solution No, Solution Name",Solution No Solution name
+1:Test,1 Test
